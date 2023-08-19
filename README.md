@@ -6,4 +6,8 @@ Typescript have a sharp learn curvature, so i'm trying to learn with small proje
 
 To test, only need to clone and open `public/index.html`
 
+![Filter working](./img/gif1.gif)
+![Infinite scroll working](./img/gif2.gif)
+![Code lookup](./img/gif3.gif)
+
 [Original Repository](https://github.com/Roger-Melo/filtragem-e-infinite-scrolling)
