@@ -1,0 +1,28 @@
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../public/css/styles.css" />
+    <title>Blog</title>
+</head>
+
+<body>
+    <h1>Blog</h1>
+
+    <div class="filter-container">
+        <input data-js="filter" type="text" class="filter" placeholder="Pesquisar no blog" autofocus />
+    </div>
+
+    <div data-js="posts-container"></div>
+
+    <div data-js="loader" class="loader">
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+    </div>
+
+    <script src="../dist/js/app.js"></script>
+</body>
+
+</html>
